@@ -1,0 +1,1 @@
+var sectionTag = document.querySelectorAll ('s');
